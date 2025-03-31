@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Asnaf 1</fullName>
+        <default>true</default>
+        <label>Asnaf 1</label>
+    </customValue>
+    <customValue>
+        <fullName>Asnaf 2</fullName>
+        <default>false</default>
+        <label>Asnaf 2</label>
+    </customValue>
+    <customValue>
+        <fullName>Asnaf 3</fullName>
+        <default>false</default>
+        <label>Asnaf 3</label>
+    </customValue>
+    <customValue>
+        <fullName>Asnaf 4</fullName>
+        <default>false</default>
+        <label>Asnaf 4</label>
+    </customValue>
+    <customValue>
+        <fullName>Asnaf 5</fullName>
+        <default>false</default>
+        <label>Asnaf 5</label>
+    </customValue>
+    <customValue>
+        <fullName>J Manning1</fullName>
+        <default>false</default>
+        <label>J Manning1</label>
+    </customValue>
+    <masterLabel>Test Asnaf Pick Value</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

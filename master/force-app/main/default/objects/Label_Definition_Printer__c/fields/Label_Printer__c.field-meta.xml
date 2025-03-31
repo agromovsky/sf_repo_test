@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Label_Printer__c</fullName>
+    <externalId>false</externalId>
+    <label>Label Printer</label>
+    <referenceTo>Label_Printer__c</referenceTo>
+    <relationshipLabel>Label Definition Printers</relationshipLabel>
+    <relationshipName>Label_Definition_Printers</relationshipName>
+    <relationshipOrder>1</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

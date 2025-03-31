@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>RecordType1</fullName>
+    <active>true</active>
+    <description>d</description>
+    <label>RecordType1</label>
+    <picklistValues>
+        <picklist>Picklist_Milti_Select__c</picklist>
+        <values>
+            <fullName>One</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Three</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Two</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Picklist__c</picklist>
+        <values>
+            <fullName>One</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Three</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Two</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
